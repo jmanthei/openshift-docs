@@ -134,6 +134,9 @@ Detailed information.
 [id="ocp-release-notes-networking_{context}"]
 == Networking
 
+HAProxy updated to version 2.8.18::
++
+The default Ingress Controller uses HAProxy. This release updates HAProxy to version 2.8.18.
 
 [id="ocp-release-notes-nodes_{context}"]
 == Nodes
